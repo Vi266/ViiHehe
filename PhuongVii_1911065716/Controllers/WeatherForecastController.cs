@@ -34,6 +34,7 @@ namespace PhuongVii_1911065716.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+            //ViiNee
         }
     }
 }
